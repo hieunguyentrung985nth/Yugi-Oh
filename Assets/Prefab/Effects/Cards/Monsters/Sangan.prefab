@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &834019930503159894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5429376081374838497}
+  - component: {fileID: -4270829377799911018}
+  m_Layer: 0
+  m_Name: Sangan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5429376081374838497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834019930503159894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-4270829377799911018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834019930503159894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e0130722aa545a4d87ac2178c5f8ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resolveEffects:
+  - effect: {fileID: 3685885530483178511, guid: 6fcde692025a14a4295b7bec156980e6,
+      type: 3}
+    canSkip: 0
+  - effect: {fileID: -385847549221756537, guid: 7bc65700c363ba348824889c3e0c8e6d,
+      type: 3}
+    canSkip: 0
+  - effect: {fileID: -3856047771251676631, guid: 60cd14e00c0f52c47bc6bc794c656361,
+      type: 3}
+    canSkip: 0
+  - effect: {fileID: 7220394020701945310, guid: 1de759323ac456e4eb17e1b58c2de182,
+      type: 3}
+    canSkip: 0
+  activationEffects: []
+  conditionEffects:
+  - {fileID: 1426553476937499307, guid: beb08f3e4edd73d49a02ee8d4acda08a, type: 3}
+  equipStateEffect: 0
+  conditionATK: 1500
+  numberOfCards: 1
+  characterToShuffle: 0
+  fromState: 3
+  toState: 2

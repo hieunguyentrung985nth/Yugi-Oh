@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a870223c7678a46b4f52592ccce721, type: 3}
+  m_Name: Beautiful Headhuntress
+  m_EditorClassIdentifier: 
+  cardName: "N\u1EEF Th\u1EE3 S\u0103n Xinh \u0110\u1EB9p"
+  description: "M\u1ED9t sinh v\u1EADt \u0111\u1EA7y t\u1ED9i \xE1c \u0111\xE3 ch\u1EB7t
+    \u0111\u1EA7u v\xF4 s\u1ED1 qu\xE1i th\xFA k\u1EBB \u0111\u1ECBch."
+  image: {fileID: 21300000, guid: 3f23ca6a36964814d8216024b80cb3af, type: 3}
+  cardType: 0
+  cardPrefab: {fileID: 8512345917174677951, guid: 9f6d08685989a26489a3e665a908094a,
+    type: 3}
+  spellSpeedType: 0
+  attackValue: 1600
+  defendValue: 800
+  level: 4
+  elementType: 2
+  monsterType: 17
+  effectType: 0

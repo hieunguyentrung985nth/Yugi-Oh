@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d8b73857e2c96947908d23ad82d8b2c, type: 3}
+  m_Name: New Menu Text SO
+  m_EditorClassIdentifier: 
+  texts:
+  - "\u0110\xE2y l\xE0 Clone v\u1EC1 tr\xF2 ch\u01A1i \u0111\xE1nh b\xE0i Yugi Oh,
+    c\u1EE5 th\u1EC3 l\xE0 game <color=#f0190a>Yugi Kaiba The Revenge</color> (N\u1EBFu
+    kh\xF4ng bi\u1EBFt v\u1EC1 tr\xF2 ch\u01A1i \u0111\xE1nh b\xE0i Yugi, h\xE3y
+    t\xECm hi\u1EC3u n\xF3 tr\u01B0\u1EDBc khi b\u1EAFt \u0111\u1EA7u).\nProject
+    n\xE0y m\xF4 ph\u1ECFng game <color=#f0190a>Yugi Kaiba The Revenge</color> tuy
+    nhi\xEAn m\u1EE9c \u0111\u1ED9 ho\xE0n thi\u1EC7n m\u1EDBi ch\u1EC9 \u0111\u1EA1t
+    50% do ch\u01B0a c\xF3 \u0111\u1EE7 th\u1EDDi gian \u0111\u1EC3 ho\xE0n th\xE0nh."
+  - "V\u1EC1 c\u01A1 b\u1EA3n game \u0111\xE3 c\xF3 nh\u1EEFng t\xEDnh n\u0103ng
+    gi\u1ED1ng nh\u01B0 game g\u1ED1c. Nh\u1EEFng th\u1EE9 m\xE0 game hi\u1EC7n ch\u01B0a
+    c\xF3:\n\t- C\xE1c l\xE1 <color=#6ef00a>spell speed 2, 3</color>. (c\xE1c l\xE1
+    b\xE0i b\u1EABy, nhi\u1EC1u lo\u1EA1i b\xE0i ph\xE9p kh\xE1c...)\n\t- <color=#0775f2>Chain
+    Link</color>\n\t- Tr\xED th\xF4ng minh cho AI\n\t- \xC2m thanh\t\nAI hi\u1EC7n
+    ch\u01B0a th\u1EC3 suy ngh\u0129 gi\u1ED1ng ng\u01B0\u1EDDi, ch\u1EC9 bi\u1EBFt
+    \u0111\xE1nh qu\xE1i l\xEAn s\xE2n v\xE0 t\u1EA5n c\xF4ng, ch\u01B0a bi\u1EBFt
+    d\xF9ng b\xE0i ph\xE9p. S\u1ED1 l\u01B0\u1EE3ng c\xE1c l\xE1 b\xE0i hi\u1EC7n
+    c\u0169ng r\u1EA5t \xEDt.\n\u0110\u1EC3 ti\u1EC7n cho vi\u1EC7c tr\u1EA3i nghi\u1EC7m,
+    c\xE1c l\xE1 b\xE0i s\u1EBD kh\xF4ng \u0111\u01B0\u1EE3c ng\u1EABu nhi\xEAn (t\u1EE9c
+    l\xE0 b\u1ED1c b\xE0i s\u1EBD lu\xF4n theo th\u1EE9 t\u1EF1 c\u1ED1 \u0111\u1ECBnh),
+    t\u1EEB \u0111\xF3 gi\xFAp ng\u01B0\u1EDDi ch\u01A1i c\xF3 th\u1EC3 th\u1EED
+    c\xE1c t\u01B0\u01A1ng t\xE1c gi\u1EEFa c\xE1c l\xE1 b\xE0i nhi\u1EC1u nh\u1EA5t
+    c\xF3 th\u1EC3. Ngo\xE0i ra c\xF3 th\u1EC3 c\xF2n t\u1ED3n t\u1EA1i bug.\n\n<b><color=#f2cb07>Have
+    fun!</color></b>"

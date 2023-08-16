@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d411e2dd9a56774db8a3f929cfa487b, type: 3}
+  m_Name: Pot Of Greed
+  m_EditorClassIdentifier: 
+  cardName: "H\u0169 Tham Lam"
+  description: "R\xFAt 2 l\xE1 b\xE0i t\u1EEB b\u1ED9 b\xE0i c\u1EE7a b\u1EA1n."
+  image: {fileID: 21300000, guid: e4ab0e674f43d1c4cb9558e3d5da2d9f, type: 3}
+  cardType: 1
+  cardPrefab: {fileID: 4491369959949310152, guid: 3ae25b60310a48b408dae5f4f71b6553,
+    type: 3}
+  spellSpeedType: 0
+  spellCardType: 0
+  cardEffects: []

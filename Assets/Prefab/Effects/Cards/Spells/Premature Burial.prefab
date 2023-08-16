@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &834019930503159894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5429376081374838497}
+  - component: {fileID: 1337212568397250531}
+  m_Layer: 0
+  m_Name: Premature Burial
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5429376081374838497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834019930503159894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1337212568397250531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834019930503159894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 783c60a45513df24fa1b146a3d49e6e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resolveEffects:
+  - effect: {fileID: 3685885530483178511, guid: 6fcde692025a14a4295b7bec156980e6,
+      type: 3}
+    canSkip: 0
+  - effect: {fileID: 5683080333631981200, guid: 1ca6437c585544749a0a442115c0dd5d,
+      type: 3}
+    canSkip: 0
+  - effect: {fileID: 1095608475876724309, guid: da16c79fe4e95624f9a08e9a3d0aff81,
+      type: 3}
+    canSkip: 0
+  activationEffects:
+  - {fileID: 6678119106664389628, guid: ebc50872a5bf6d7448f868666a817d63, type: 3}
+  conditionEffects:
+  - {fileID: -8457962955702748597, guid: e40d7933ff6c7884cbf2d4c488f55fdc, type: 3}
+  - {fileID: -5417397908848045596, guid: fe7fc19ca3ce52342bd26c397ebb3797, type: 3}
+  cardSO: {fileID: 11400000, guid: f2c7322a9c80d404f94c38b6891e0559, type: 2}
+  equipStateEffect: 1
+  pointToPay: 800
+  specialSummonFrom: 2
+  character: 0
+  cardPosition: 0

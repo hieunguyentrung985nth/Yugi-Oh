@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6a870223c7678a46b4f52592ccce721, type: 3}
+  m_Name: Gemini Elf
+  m_EditorClassIdentifier: 
+  cardName: "Elf Song T\u1EED"
+  description: "C\u1EB7p Elf sinh \u0111\xF4i chuy\xEAn lu\xE2n phi\xEAn t\u1EA5n
+    c\xF4ng."
+  image: {fileID: 21300000, guid: 612ec4b2efcad9c4ebe2c561a1907fd9, type: 3}
+  cardType: 0
+  cardPrefab: {fileID: 8512345917174677951, guid: ab30821bdc0e9394dae2b011fd33a5e2,
+    type: 3}
+  spellSpeedType: 0
+  attackValue: 1900
+  defendValue: 900
+  level: 4
+  elementType: 2
+  monsterType: 15
+  effectType: 0

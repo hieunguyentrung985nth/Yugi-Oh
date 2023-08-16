@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ed3721fb47e814d950e3b867c24ec0, type: 3}
+  m_Name: AI Reaction Voice Line SO
+  m_EditorClassIdentifier: 
+  aIReactionVoiceLines:
+  - reaction: 0
+    voiceLines: []
+    reactionBehavior: 0
+  - reaction: 18
+    voiceLines:
+    - "Ta \xFAp l\xE1 n\xE0y l\xEAn s\xE2n."
+    reactionBehavior: 2
+  - reaction: 1
+    voiceLines:
+    - "Hah r\u1EA5t ti\u1EBFc. \u0110en cho ng\u01B0\u01A1i r\u1ED3i."
+    reactionBehavior: 0
+  - reaction: 2
+    voiceLines:
+    - "Ah... T\xEAn kh\u1ED1n..."
+    reactionBehavior: 0
+  - reaction: 1
+    voiceLines:
+    - "V\u1EDBi l\xE1 b\xE0i n\xE0y, ta s\u1EBD nghi\u1EC1n n\xE1t ng\u01B0\u01A1i."
+    reactionBehavior: 0
+  - reaction: 3
+    voiceLines:
+    - "Ta chuy\u1EC3n sang Th\u1EBF c\xF4ng!"
+    reactionBehavior: 2
+  - reaction: 4
+    voiceLines:
+    - "Ta chuy\u1EC3n sang Th\u1EBF th\u1EE7."
+    reactionBehavior: 2
+  - reaction: 5
+    voiceLines:
+    - "Tri\u1EC7u h\u1ED3i l\u1EADt!"
+    reactionBehavior: 2
+  - reaction: 6
+    voiceLines:
+    - Huh...
+    - "C\u0169ng kh\xE1 \u0111\u1EA5y."
+    reactionBehavior: 0
+  - reaction: 7
+    voiceLines:
+    - OHHH...!
+    reactionBehavior: 0
+  - reaction: 8
+    voiceLines:
+    - GWAHA!
+    - "\u0110au \u0111\u1EA5y!"
+    reactionBehavior: 0
+  - reaction: 9
+    voiceLines:
+    - GWAAAAH!
+    reactionBehavior: 0
+  - reaction: 10
+    voiceLines:
+    - GWAAAAAAH!
+    - "Sao ng\u01B0\u01A1i d\xE1m...?"
+    reactionBehavior: 0
+  - reaction: 11
+    voiceLines:
+    - "Kh\xF4nggggg..."
+    reactionBehavior: 0
+  - reaction: 12
+    voiceLines:
+    - "Ta k\u1EBFt th\xFAc l\u01B0\u1EE3t."
+    reactionBehavior: 1
+  - reaction: 13
+    voiceLines:
+    - "H\u1ED5...?"
+    - "L\xE1 b\xE0i ma ph\xE1p sao?"
+    reactionBehavior: 0
+  - reaction: 14
+    voiceLines:
+    - "Kh\xF4ng th\u1EC3 nh\u01B0 v\u1EADy \u0111\u01B0\u1EE3c."
+    reactionBehavior: 0
+  - reaction: 15
+    voiceLines:
+    - "Kh\xF4ng th\u1EC3 n\xE0o."
+    reactionBehavior: 1
+  - reaction: 19
+    voiceLines:
+    - "Chi\u1EBFn th\u1EAFng kh\xF4ng ch\u1EC9 n\u1EB1m trong m\u1ED7i l\xE1 b\xE0i
+      \u0111\xE2u, m\xE0 c\u1EA7n nhi\u1EC1u th\u1EE9 h\u01A1n th\u1EBF \u0111\u1EA5y."
+    reactionBehavior: 0
+  - reaction: 19
+    voiceLines:
+    - "N\u1EBFu ng\u01B0\u01A1i \u0111ang ngh\u0129 m\xECnh c\xF3 th\u1EC3 th\u1EAFng
+      th\xEC ng\u01B0\u01A1i \u0111ang t\u1EF1 l\u1EEBa d\u1ED1i b\u1EA3n th\xE2n
+      \u0111\u1EA5y."
+    reactionBehavior: 0
+  - reaction: 19
+    voiceLines:
+    - "Cho ta th\u1EA5y s\u1EE9c m\u1EA1nh th\u1EADt s\u1EF1 c\u1EE7a ng\u01B0\u01A1i
+      \u0111i."
+    reactionBehavior: 1
+  - reaction: 20
+    voiceLines:
+    - "Hahaha. M\u1ED9t con ch\xF3 nh\u01B0 ng\u01B0\u01A1i th\xEC sao c\xF3 \u0111\u1EE7
+      tr\xECnh \u0111\u1EA5u l\u1EA1i nh\xE0 v\xF4 \u0111\u1ECBch nh\u01B0 ta?"
+    reactionBehavior: 1
+  - reaction: 20
+    voiceLines:
+    - "Ta ph\u1EA3i c\xF4ng nh\u1EADn ng\u01B0\u01A1i \u0111\xE3 c\xF3 ti\u1EBFn
+      b\u1ED9, nh\u01B0ng ch\u1EEBng \u0111\xF3 th\xEC ch\u01B0a \u0111\u1EE7."
+    reactionBehavior: 1
+  - reaction: 20
+    voiceLines:
+    - "Ch\u1EC9 1 t\u1EEB th\xF4i, Out Tr\xECnh."
+    reactionBehavior: 1
+  - reaction: 21
+    voiceLines:
+    - "Ahhhhh... Ng\u01B0\u01A1i ch\u1EC9 \u0103n may v\xEC \u0111\u01B0\u1EE3c b\xE0i
+      \u0111\u1EB9p th\xF4i!"
+    reactionBehavior: 1
+  - reaction: 21
+    voiceLines:
+    - "\u0110\u1EEBng ngh\u0129 m\u1ECDi th\u1EE9 d\u1EEBng l\u1EA1i \u1EDF \u0111\xE2y.
+      Ta s\u1EBD quay tr\u1EDF l\u1EA1i."
+    reactionBehavior: 1
+  - reaction: 21
+    voiceLines:
+    - "Sao m\u1ED9t t\xEAn c\xF9i b\u1EAFp nh\u01B0 ng\u01B0\u01A1i l\u1EA1i c\xF3
+      th\u1EC3 th\u1EAFng ta \u0111\u01B0\u1EE3c?"
+    reactionBehavior: 1

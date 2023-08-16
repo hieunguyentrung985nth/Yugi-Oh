@@ -1,6 +1,6 @@
 # Clone Yugi
 
-Đây là game clone dựa trên game gốc Yugi Kaiba The Revenge của KONAMI. Game mới chỉ hoàn thành 50%. Thời gian làm 1,5 tháng.
+Đây là game clone dựa trên game gốc Yugi Kaiba The Revenge của KONAMI. Game mới chỉ hoàn thành 50%. Thời gian làm 1,5 tháng. (T5/2023 - T7/2023)
 
 ## Cài đặt
 

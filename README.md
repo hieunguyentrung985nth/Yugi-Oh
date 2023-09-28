@@ -1,3 +1,7 @@
+## Link Google Drive
+
+Link bao gồm mô tả + hình ảnh + video + file build: https://drive.google.com/drive/folders/1v5kpwY_RBF61tjCbNmXbQ47ZNjEUvkN6
+
 # Clone Yugi
 
 Đây là game clone dựa trên game gốc Yugi Kaiba The Revenge của KONAMI. Game mới chỉ hoàn thành 50%. Thời gian làm 1,5 tháng. (T5/2023 - T7/2023)
@@ -23,7 +27,3 @@ Dùng Git lấy code về, sau đó mở Unity chọn project. Sau khi Unity cà
 3.	Chưa có Chain Link.
 4.	AI chưa có trí thông minh.
 5.	Còn quá ít lá bài.
-
-## Link Google Drive
-
-Link bao gồm mô tả + hình ảnh + video + file build: https://drive.google.com/drive/folders/1v5kpwY_RBF61tjCbNmXbQ47ZNjEUvkN6
